@@ -1,0 +1,12 @@
+
+                font-family: 'Noto Sans KR', sans-serif;
+
+/*               목록에 점 없애는 기능*/
+               list-style: none;
+               text-decoration: none;
+/*               테이블에 선이 떨어져있는데 붙어주는 기능*/
+               border-collapse: collapse;
+               margin: 1px;
+               padding: 1px;
+/*               폰트색깔*/
+               color: #000;
